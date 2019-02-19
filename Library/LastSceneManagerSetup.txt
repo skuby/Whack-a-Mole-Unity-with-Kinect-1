@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DepthColliderDemo/gameoverscene.unity
+  isLoaded: 1
+  isActive: 1
